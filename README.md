@@ -244,7 +244,9 @@ LOUVAIN USING GEPHI:
  
 
 APPLICATIONS:
+=
 Despite these challenges, data from social media have been used in various ways to support the cause of environmental sustainability. Examples include monitoring public sentiment on climate change, assessment of biodiversity, and evaluation of the effectiveness of initiatives for sustainability. Once ethical issues are addressed and it is ensured that research will be conducted in a transparent manner, this data can be put into better use.
+
 CONCLUSION:
 =
 Social media data hold significant promise for enhancing environmental sustainability research by providing real-time insights and broadening public engagement. However, realizing this potential requires careful consideration of ethical standards, data privacy, and accessibility issues. By addressing these challenges, researchers can ensure that social media data contribute positively to the global sustainability agenda, supporting efforts to achieve the United Nations Sustainable Development Goals (SDGs) and promoting a more sustainable future.
